@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-11T11:48:25 BST" name="Default suite" finished-at="2023-09-11T11:48:25 BST" duration-ms="205">
+    <groups>
+    </groups>
+    <test started-at="2023-09-11T11:48:25 BST" name="Default test" finished-at="2023-09-11T11:48:25 BST" duration-ms="205">
+      <class name="com.dee.test1.TestNGjava2">
+        <test-method signature="TestMethod4()[pri:0, instance:com.dee.test1.TestNGjava2@38cee291]" started-at="2023-09-11T11:48:25 BST" name="TestMethod4" finished-at="2023-09-11T11:48:25 BST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod4 -->
+        <test-method signature="TestMethod0()[pri:1, instance:com.dee.test1.TestNGjava2@38cee291]" started-at="2023-09-11T11:48:25 BST" name="TestMethod0" finished-at="2023-09-11T11:48:25 BST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod0 -->
+        <test-method signature="TestMethod2()[pri:2, instance:com.dee.test1.TestNGjava2@38cee291]" started-at="2023-09-11T11:48:25 BST" name="TestMethod2" finished-at="2023-09-11T11:48:25 BST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod2 -->
+        <test-method signature="TestMethod3()[pri:3, instance:com.dee.test1.TestNGjava2@38cee291]" started-at="2023-09-11T11:48:25 BST" name="TestMethod3" finished-at="2023-09-11T11:48:25 BST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod3 -->
+        <test-method signature="TestMethod1()[pri:4, instance:com.dee.test1.TestNGjava2@38cee291]" started-at="2023-09-11T11:48:25 BST" name="TestMethod1" finished-at="2023-09-11T11:48:25 BST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestMethod1 -->
+      </class> <!-- com.dee.test1.TestNGjava2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
